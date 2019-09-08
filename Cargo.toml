@@ -1,0 +1,10 @@
+[package]
+name = "cartog"
+version = "0.1.0"
+authors = ["jamel"]
+edition = "2018"
+
+[dependencies]
+clap = "2.33.0"
+cartog-lib = { path = "./src/cartog-lib/", version = "0.1.0" }
+cartog-renderer = { path = "./src/cartog-renderer/", version = "0.1.0" }

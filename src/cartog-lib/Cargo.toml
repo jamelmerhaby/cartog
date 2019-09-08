@@ -1,0 +1,9 @@
+[package]
+name = "cartog-lib"
+version = "0.1.0"
+authors = ["jamel"]
+edition = "2018"
+
+[dependencies]
+noise = "0.5.1"
+rand = "0.7.0"
