@@ -1,0 +1,1 @@
+Cartog is a procedural map generator implemented in Rust. The current implementation uses Perlin Noise for generating elevation and moisture values.
